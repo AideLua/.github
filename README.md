@@ -16,7 +16,7 @@ Website：<https://aidelua.github.io/>
 - [AndroLua+ Layout Compiler](https://github.com/AideLua/AndroLuaLayoutCompiler)：Converting Layout Tables to Lua Code.
 
 > **Note**
-> 安装软件请参考 [刷机指南 - 安装第三方软件](https://jesse205.github.io/FlashAndroidDevicesGuidelines/normal/installApk/) 。
+> For installing software, please refer to [Brush Guide - Installing Third-Party Software (Chinese)](https://jesse205.github.io/FlashAndroidDevicesGuidelines/normal/installApk/).
 
 ### AndroLua+ Modules
 

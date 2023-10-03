@@ -9,7 +9,7 @@
 
 ### Android 应用
 
-- Aide Lua：移动端依赖 AIDE (不只是AIDE) 的 Lua 编辑器。
+- [Aide Lua](https://gitee.com/AideLua/AideLua)：移动端依赖 AIDE (不只是AIDE) 的 Lua 编辑器。
   - 网站：<https://aidelua.github.io/>
   - 使用文档：<https://aidelua.github.io/AideLua/>
 - Edde Code (TODO)：Edde 系列移动编辑器的根基。
